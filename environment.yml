@@ -1,0 +1,29 @@
+name: di
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.6
+  - cudatoolkit=11.3
+  - pytorch=1.12.1
+  - torchvision=0.13.1
+  - fire=0.4.0
+  - imageio=2.22.4
+  - einops=0.6.0
+  - pip
+  - pip:
+      - tensorflow~=2.10
+      - tensorflow-datasets~=4.7.0
+      - ml_collections~=0.1.1
+      - seaborn~=0.12.1
+      - kornia~=0.6.8
+      - timm~=0.6.12
+      - transformers~=4.25.1
+      - safetensors~=0.2.5
+      - accelerate~=0.15
+      - datasets~=2.7.1
+      - diffusers
+      - clu
+      - gsutil
+      - medmnist
