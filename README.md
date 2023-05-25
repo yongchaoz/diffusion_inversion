@@ -1,10 +1,7 @@
 # Diffusion Inversion
 
-[Project Page]() 
-| [OpenReview]()
-| [ArXiv]()
-| [Video]()
-| [Slides]()
+[Project Page](https://sites.google.com/view/diffusion-inversion) 
+| [ArXiv](https://arxiv.org/abs/2305.15316)
 
 This repo contains code for steer Stable Diffusion Model to generate data for downstream classifier training. Please see our paper and project page for more results.
 

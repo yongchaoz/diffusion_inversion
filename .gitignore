@@ -31,3 +31,5 @@ MANIFEST
 *.log
 .vscode/
 src/wandb/
+
+checkpoint/
